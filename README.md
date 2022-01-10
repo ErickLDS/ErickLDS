@@ -2,4 +2,4 @@
 
 - ⏳ Atualmente estou a procura do meu primeiro emprego.
 - 👨‍💻 Pretendo trabalhar com React.js.
-- 📚 Estou aprendendo Node.js e Express.
+- 📚 Estou estudando Node.js e Express.
