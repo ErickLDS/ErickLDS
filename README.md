@@ -4,13 +4,11 @@
 - 👨‍💻 Pretendo trabalhar com React.js.
 - 📚 Estou estudando Node.js e Express.
 
-<br/>
-
-<div>
+<!-- <div>
   <a href="https://github.com/ErickLDS"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickLDS&hide_rank=true?show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Status Do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLDS&layout=compact&langs_count=10&theme=tokyonight&custom_title=Linguagens Mais Usadas"/>
-</div>
+</div> -->
  
 ##
 
