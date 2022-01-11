@@ -27,3 +27,13 @@
   | <img align="center" alt="Material UI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   | <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
+
+##
+
+### Redes Sociais:
+
+<br/>
+
+<div>
+  <a href="https://www.linkedin.com/in/erick-lima-2b4020214/"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</div>
