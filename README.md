@@ -1,18 +1,10 @@
 ### Olá 👋, eu sou o Erick Lima, Desenvolvedor Web Front-End.
 
-- ⏳ Atualmente estou a procura do meu primeiro emprego.
-- 👨‍💻 Pretendo trabalhar com React.js.
-- 📚 Estou estudando Node.js e Express.
+Sou um desenvolvedor Web Front-End e estou a procura de adquirir experiência no mercado de trabalho. Sou formado na ETEC de Francisco Morato no curso de Informática para Internet.
 
-<!-- <div>
-  <a href="https://github.com/ErickLDS"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickLDS&hide_rank=true?show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Status Do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLDS&layout=compact&langs_count=10&theme=tokyonight&custom_title=Linguagens Mais Usadas"/>
-</div> -->
- 
 ##
 
-### Linguagens e Frameworks:
+### Conhecimentos:
 
 <br/>
 
