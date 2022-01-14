@@ -30,3 +30,15 @@ Sou um desenvolvedor Web Front-End e estou a procura de adquirir experiência no
 <div>
   <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
+
+##
+
+### Informações:
+
+<br/>
+
+<div>
+  <a href="https://github.com/ErickLDS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLDS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Linguagens Mais Usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickLDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Status Do GitHub"/>
+</div>
