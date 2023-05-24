@@ -1,6 +1,6 @@
-### Olá 👋, eu sou o Erick Lima, Desenvolvedor Web Front-End.
+### Olá 👋, eu sou o Erick Lima, Desenvolvedor Web.
 
-Sou um desenvolvedor Web Front-End e estou a procura de adquirir experiência no mercado de trabalho. Sou formado na ETEC de Francisco Morato no curso de Informática para Internet.
+Sou formado na ETEC de Francisco Morato no curso de Informática para Internet.
 
 ##
 
